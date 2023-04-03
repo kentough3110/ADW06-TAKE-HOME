@@ -1,0 +1,11 @@
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\testingggg.csproj.AssemblyReference.cache
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\testingggg.csproj.SuggestedBindingRedirects.cache
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\testingggg.Properties.Resources.resources
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\testingggg.csproj.GenerateResource.cache
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\testingggg.csproj.CoreCompileInputs.cache
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\bin\Debug\testingggg.exe.config
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\bin\Debug\testingggg.exe
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\bin\Debug\testingggg.pdb
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\testingggg.exe
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\testingggg.pdb
+C:\Users\KENT LEE\source\repos\testingggg\testingggg\obj\Debug\ADW06_TAKEHOME.Form1.resources
